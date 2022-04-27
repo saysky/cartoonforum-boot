@@ -1,3 +1,7 @@
+## 博主开发的其他论坛或博客项目全部在这里
+**[https://liuyanzhao.com/shop.html?k=论坛](https://liuyanzhao.com/shop.html?k=论坛)** <br/>
+**[https://liuyanzhao.com/shop.html?k=博客](https://liuyanzhao.com/shop.html?k=博客)**   <br/>
+- -------------------------------------------------------------------------------
 - 2022 最轻量级SpringBoot动漫论坛
 - 预览地址：[http://cartoonforum.liuyanzhao.com](http://cartoonforum.liuyanzhao.com)
 - 详细介绍地址：[https://liuyanzhao.com/shop/cartoonforum.html](https://liuyanzhao.com/shop/cartoonforum.html)
